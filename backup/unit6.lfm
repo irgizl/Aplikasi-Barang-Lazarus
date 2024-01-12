@@ -1,0 +1,8 @@
+object Form6: TForm6
+  Left = 459
+  Height = 419
+  Top = 237
+  Width = 442
+  Caption = 'Laporan'
+  LCLVersion = '2.2.6.0'
+end
